@@ -10,4 +10,4 @@ print 'go visit : ' + visit[1] + visit[2] + visit[3]
 my_str = 'bobbyhadz.com'
 
 # ✅ print first 5 characters in string
-print(my_str[:5]) 
+print(my_str[:8]) 
